@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felps-onf
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Django, Node, Cloud(AWS/Azure) and React
+- 👀 I’m interested in Software Engineering, Cloud Engineering, AI and optmization.
+- 🌱 I’m currently working with Django, React, Node, Cloud(AWS/Azure), Rust, and C/C++.
 - 💞️ I’m looking to collaborate on Open Source Projects, Freelancer Projects and Researching.
 - 📫 How to reach me: felipeeflorentino@gmail.com
 
