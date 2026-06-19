@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felps-onf
 - 👀 I’m interested in Software Engineering, Finance apps, Cloud Engineering, AI and optmization.
-- 🌱 I’m currently working with Django, .NET, Azure, Angular.
+- 🌱 I’m currently working with Django, .NET, Angular, Azure and Terraform.
 - 💞️ I’m looking to collaborate on Open Source Projects, Freelancer Projects and Researching.
 - 📫 How to reach me: felipeeflorentino@gmail.com
 
